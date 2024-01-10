@@ -1,6 +1,6 @@
 # Helena-s_Portfolio
 
-# [Project 1: Exploring Determinants and Constructing a Predictive Model for Global Life Expectancy](add link)
+# [Project 1: Exploring Determinants and Constructing a Predictive Model for Global Life Expectancy](https://github.com/HelenaBlumenau/Helena-s_Portfolio/blob/main/Global%20Life%20Expectancy%20Predictive%20Model.pdf)
 
 This is a project I did for my Master's program Linear Regression.
 
